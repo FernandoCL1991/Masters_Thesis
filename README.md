@@ -8,3 +8,5 @@ This is the masters thesis repo.
 
 # Data
 GeoJSON Files retrieved from The World Bank: https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
+GeoJSON Files option 2 from CEPAL: https://geoportal.cepal.org/layers/geonode:dam_depualc/layer_export#/
+
